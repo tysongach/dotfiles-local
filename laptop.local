@@ -1,0 +1,26 @@
+brew_install_or_upgrade caskroom/cask/brew-cask
+brew tap caskroom/versions
+
+brew_cask_install_or_upgrade 1password
+brew_cask_install_or_upgrade alfred
+brew_cask_install_or_upgrade arq
+brew_cask_install_or_upgrade dropbox
+brew_cask_install_or_upgrade firefox
+brew_cask_install_or_upgrade flux
+brew_cask_install_or_upgrade github-desktop
+brew_cask_install_or_upgrade google-chrome
+brew_cask_install_or_upgrade imageoptim
+brew_cask_install_or_upgrade iterm2
+brew_cask_install_or_upgrade mailbox
+brew_cask_install_or_upgrade rdio
+brew_cask_install_or_upgrade sketch
+brew_cask_install_or_upgrade sketch-toolbox
+brew_cask_install_or_upgrade skype
+brew_cask_install_or_upgrade slack
+brew_cask_install_or_upgrade sublime-text3
+
+gem_install_or_update autoprefixer-rails
+gem_install_or_update bitters
+gem_install_or_update bourbon
+gem_install_or_update neat
+gem_install_or_update scss_lint

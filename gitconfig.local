@@ -1,0 +1,9 @@
+[core]
+  editor = subl -n -w
+[format]
+  pretty = %Cred%h%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset
+[rebase]
+  autosquash = true
+[user]
+  name = Tyson Gach
+  email = tyson.gach@gmail.com
