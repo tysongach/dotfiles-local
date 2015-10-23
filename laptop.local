@@ -9,6 +9,7 @@ brew_cask_install_or_upgrade arq
 brew_cask_install_or_upgrade dropbox
 brew_cask_install_or_upgrade firefox
 brew_cask_install_or_upgrade flux
+brew_cask_install_or_upgrade framer-studio
 brew_cask_install_or_upgrade github-desktop
 brew_cask_install_or_upgrade google-chrome
 brew_cask_install_or_upgrade imageoptim
