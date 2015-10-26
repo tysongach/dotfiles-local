@@ -15,6 +15,7 @@ brew_cask_install_or_upgrade google-chrome
 brew_cask_install_or_upgrade imageoptim
 brew_cask_install_or_upgrade iterm2
 brew_cask_install_or_upgrade mailbox
+brew_cask_install_or_upgrade padbury-clock
 brew_cask_install_or_upgrade rdio
 brew_cask_install_or_upgrade screenhero
 brew_cask_install_or_upgrade sketch
