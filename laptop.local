@@ -28,4 +28,5 @@ gem_install_or_update autoprefixer-rails
 gem_install_or_update bitters
 gem_install_or_update bourbon
 gem_install_or_update neat
+gem_install_or_update sass
 gem_install_or_update scss_lint
