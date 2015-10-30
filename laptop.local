@@ -29,6 +29,7 @@ gem install autoprefixer-rails
 gem install bitters
 gem install bourbon
 gem install bundler
+gem install middleman
 gem install neat
 gem install sass
 gem install scss_lint
