@@ -14,7 +14,7 @@ brew cask install framer-studio
 brew cask install github-desktop
 brew cask install google-chrome
 brew cask install imageoptim
-brew cask install iterm2
+brew cask install iterm2-beta
 brew cask install mailbox
 brew cask install padbury-clock
 brew cask install rdio
