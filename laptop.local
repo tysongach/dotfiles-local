@@ -18,7 +18,6 @@ brew cask install imageoptim
 brew cask install iterm2-beta
 brew cask install mailbox
 brew cask install padbury-clock
-brew cask install rdio
 brew cask install screenhero
 brew cask install sketch
 brew cask install sketch-toolbox
