@@ -10,6 +10,8 @@ linters:
   BorderZero:
     enabled: true
     convention: zero
+  ChainedClasses:
+    enabled: true
   ColorKeyword:
     enabled: true
   ColorVariable:
@@ -87,6 +89,8 @@ linters:
     enabled: true
     properties:
       line-height: []
+  PseudoElement:
+    enabled: true
   QualifyingElement:
     enabled: true
     allow_element_with_attribute: false
@@ -119,7 +123,7 @@ linters:
     enabled: true
   SpaceAroundOperator:
     enabled: true
-    style: one_space
+    style: at_least_one_space
   SpaceBeforeBrace:
     enabled: true
     style: space
