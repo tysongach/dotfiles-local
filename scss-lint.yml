@@ -139,7 +139,7 @@ linters:
   TrailingWhitespace:
     enabled: true
   TrailingZero:
-    enabled: false
+    enabled: true
   TransitionAll:
     enabled: true
     severity: warning
