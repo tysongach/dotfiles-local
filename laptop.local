@@ -33,3 +33,5 @@ gem install middleman
 gem install neat
 gem install sass
 gem install scss_lint
+
+npm install -g a11y
