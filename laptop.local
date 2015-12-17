@@ -35,3 +35,4 @@ gem install sass
 gem install scss_lint
 
 npm install -g a11y
+npm install -g git-open
