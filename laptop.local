@@ -32,6 +32,7 @@ gem install bundler
 gem install foreman
 gem install middleman
 gem install neat
+gem install pivotal_git_scripts
 gem install sass
 gem install scss_lint
 
