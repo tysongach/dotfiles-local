@@ -9,6 +9,7 @@ brew cask install aerial
 brew cask install alfred
 brew cask install arq
 brew cask install dropbox
+brew cask install fantastical
 brew cask install firefox
 brew cask install flux
 brew cask install framer-studio
