@@ -17,6 +17,7 @@ brew cask install github-desktop
 brew cask install google-chrome
 brew cask install imageoptim
 brew cask install iterm2-beta
+brew cask install nylas-n1
 brew cask install padbury-clock
 brew cask install screenhero
 brew cask install sketch
