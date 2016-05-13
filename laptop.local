@@ -19,6 +19,7 @@ brew cask install imageoptim
 brew cask install iterm2-beta
 brew cask install nylas-n1
 brew cask install padbury-clock
+brew cask install sassquatch
 brew cask install screenhero
 brew cask install sketch
 brew cask install sketch-toolbox
@@ -26,7 +27,6 @@ brew cask install skype
 brew cask install slack
 brew cask install spotify
 brew cask install sublime-text3
-brew cask install sassquatch
 
 gem install autoprefixer-rails
 gem install bitters
