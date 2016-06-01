@@ -77,6 +77,8 @@ linters:
 
   ImportantRule:
     enabled: true
+    exclude:
+      - '**/utilities/**'
 
   ImportPath:
     enabled: true
