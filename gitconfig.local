@@ -3,7 +3,7 @@
 [alias]
   car = commit --amend --no-edit
 [format]
-  pretty = %Cred%h%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset
+  pretty = %C(green)%h%C(reset) %an (%C(blue)%ar%C(reset)) %s
 [rebase]
   autosquash = true
 [user]
