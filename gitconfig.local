@@ -1,5 +1,7 @@
 [core]
   editor = subl -n -w
+[alias]
+  car = commit --amend --no-edit
 [format]
   pretty = %Cred%h%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset
 [rebase]
