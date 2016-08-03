@@ -1,2 +1,3 @@
 alias be="bundle exec"
+alias docparse="sassdoc core/ --parse --verbose"
 alias pgstop="brew services stop postgresql && rm -f /usr/local/var/postgres/postmaster.pid"
