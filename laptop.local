@@ -12,14 +12,10 @@ brew cask install dropbox
 brew cask install fantastical
 brew cask install firefox
 brew cask install flux
-brew cask install framer-studio
-brew cask install github-desktop
 brew cask install google-chrome
 brew cask install imageoptim
 brew cask install iterm2-beta
-brew cask install padbury-clock
 brew cask install sassquatch
-brew cask install screenhero
 brew cask install sketch
 brew cask install skype
 brew cask install slack
@@ -30,12 +26,11 @@ gem install autoprefixer-rails
 gem install bitters
 gem install bourbon
 gem install bundler
-gem install foreman
 gem install middleman
 gem install neat
 gem install pivotal_git_scripts
 gem install sass
-gem install scss_lint
+gem install suspenders
 
 npm install -g a11y
 npm install -g git-open
