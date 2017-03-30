@@ -7,7 +7,6 @@ brew install gitsh
 brew cask install 1password
 brew cask install aerial
 brew cask install alfred
-brew cask install arq
 brew cask install dropbox
 brew cask install fantastical
 brew cask install firefox
