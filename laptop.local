@@ -31,5 +31,5 @@ gem install pivotal_git_scripts
 gem install sass
 gem install suspenders
 
-npm install -g a11y
+npm install -g axe-cli
 npm install -g git-open
