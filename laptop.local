@@ -17,7 +17,7 @@ brew cask install sketch
 brew cask install slack
 brew cask install sonos
 brew cask install spotify
-brew cask install sublime-text3
+brew cask install sublime-text
 
 gem install autoprefixer-rails
 gem install bitters
