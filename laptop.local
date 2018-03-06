@@ -20,15 +20,7 @@ brew cask install spotify
 brew cask install sublime-text
 brew cask install transmit
 
-gem install autoprefixer-rails
-gem install bitters
-gem install bourbon
 gem install bundler
-gem install middleman
-gem install neat
-gem install pivotal_git_scripts
-gem install sass
-gem install suspenders
 
 npm install -g axe-cli
 npm install -g git-open
