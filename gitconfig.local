@@ -2,6 +2,7 @@
   editor = subl -n -w
 [alias]
   car = commit --amend --no-edit
+  prom = pull --rebase origin master
 [format]
   pretty = %C(green)%h%C(reset) %an (%C(blue)%ar%C(reset)) %s
 [rebase]
