@@ -5,8 +5,6 @@
   prom = pull --rebase origin master
 [format]
   pretty = %C(green)%h%C(reset) %an (%C(blue)%ar%C(reset)) %s
-[rebase]
-  autosquash = true
 [user]
   name = Tyson Gach
   email = tyson@tysongach.com
