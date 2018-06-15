@@ -21,4 +21,3 @@ brew cask install transmit
 gem install bundler
 
 npm install -g axe-cli
-npm install -g git-open
