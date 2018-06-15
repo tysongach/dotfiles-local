@@ -3,4 +3,3 @@ export PS1='${SSH_CONNECTION+"%{$fg_bold[green]%}%n@%m:"}%{$fg_bold[blue]%}%c%{$
 export EDITOR="atom -nw"
 
 export PATH="$HOME/.bin:$PATH"
-eval "$(rbenv init - --no-rehash)"
