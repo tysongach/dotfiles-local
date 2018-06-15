@@ -1,5 +1,5 @@
 [core]
-  editor = subl -n -w
+  editor = atom --wait
 [alias]
   car = commit --amend --no-edit
   prom = pull --rebase origin master
