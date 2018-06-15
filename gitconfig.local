@@ -3,6 +3,8 @@
 [alias]
   car = commit --amend --no-edit
   prom = pull --rebase origin master
+[credential]
+  helper = osxkeychain
 [format]
   pretty = %C(green)%h%C(reset) %an (%C(blue)%ar%C(reset)) %s
 [user]
