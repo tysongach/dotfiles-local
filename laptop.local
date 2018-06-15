@@ -5,6 +5,7 @@ brew install git-lfs
 brew install gitsh
 
 brew cask install 1password
+brew cask install abstract
 brew cask install aerial
 brew cask install alfred
 brew cask install atom
