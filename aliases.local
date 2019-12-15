@@ -1,4 +1,3 @@
 alias be="bundle exec"
-alias docparse="sassdoc core/ --parse --verbose"
 alias hl="heroku local"
 alias pgstop="brew services stop postgresql && rm -f /usr/local/var/postgres/postmaster.pid"
