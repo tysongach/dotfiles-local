@@ -1,24 +1,21 @@
 brew install caskroom/cask/brew-cask
 brew tap caskroom/versions
 
-brew install git-lfs
 brew install gitsh
 
 brew cask install 1password
 brew cask install abstract
-brew cask install aerial
 brew cask install alfred
 brew cask install atom
 brew cask install dropbox
+brew cask install figma
 brew cask install firefox
+brew cask install github
 brew cask install google-chrome
 brew cask install imageoptim
 brew cask install iterm2
+brew cask install ngrok
 brew cask install sketch
 brew cask install slack
 brew cask install spotify
 brew cask install transmit
-
-gem install bundler
-
-npm install -g axe-cli
