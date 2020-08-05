@@ -9,6 +9,8 @@
   pretty = %C(green)%h%C(reset) %an (%C(blue)%ar%C(reset)) %s
 [init]
   defaultBranch = main
+[pull]
+  ff = only
 [user]
   email = tyson@tysongach.com
   name = Tyson Gach
