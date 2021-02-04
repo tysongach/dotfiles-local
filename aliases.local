@@ -1,3 +1,4 @@
 alias be="bundle exec"
+alias bs="bin/server"
 alias e="atom ."
 alias hl="heroku local"
