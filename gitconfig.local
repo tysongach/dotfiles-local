@@ -1,6 +1,7 @@
 [core]
   editor = atom --wait
 [alias]
+  br = branch
   car = commit --amend --no-edit
 [credential]
   helper = osxkeychain
