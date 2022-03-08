@@ -3,6 +3,7 @@
 [alias]
   br = branch
   car = commit --amend --no-edit
+  cb = switch --create
 [credential]
   helper = osxkeychain
 [format]
