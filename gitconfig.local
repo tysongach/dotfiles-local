@@ -4,6 +4,7 @@
   br = branch
   car = commit --amend --no-edit
   cb = switch --create
+  sb = switch
 [credential]
   helper = osxkeychain
 [format]
